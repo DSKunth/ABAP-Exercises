@@ -6,12 +6,12 @@ Small practice programs from my first steps in ABAP, written as global classes t
 
 | Class | Topic |
 |---|---|
-| `ZCL_S4D100_27_CHAR` | character strings |
-| `ZCL_S4D100_27_COND` | conditional branching |
-| `ZCL_S4D100_27_DO_ENDDO` | `DO ... ENDDO` loops |
-| `ZCL_S4D100_27_EXIT` | leaving a loop on a condition |
-| `ZCL_S4D100_27_DUMP` | provoking and analyzing a runtime error |
-| `ZCL_S4D100_27_HELLO_WORLD` | Hello World |
+| `ZCL_S4D100_27_CHAR` | Process character strings |
+| `ZCL_S4D100_27_COND` | Implement conditional logic |
+| `ZCL_S4D100_27_DO_ENDDO` | Implement loop |
+| `ZCL_S4D100_27_EXIT` | Implement a DO – ENDDO loop with an abort condition |
+| `ZCL_S4D100_27_DUMP` | Use conditional logic to avoid a runtime error |
+| `ZCL_S4D100_27_HELLO_WORLD` | Hello World app |
 | `ZCL_SD400_HELLO_WORLD` | Hello World (first class) |
 
 ## How to run
